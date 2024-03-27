@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Hello Again.")
+print("I like typing.")
+print("This is fun.")
+print("I like Python.")
